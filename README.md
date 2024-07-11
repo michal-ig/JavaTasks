@@ -1,2 +1,2 @@
-# InterviewTasks
-IG Interview Tasks
+# JavaTasks
+IG Interview JAva Tasks
